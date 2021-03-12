@@ -1,0 +1,4 @@
+-cp src
+-js bin/modplayerhx.js
+-main Main
+-D js-source-map
